@@ -1,0 +1,9 @@
+{
+    "db":{
+        "name": "kvStore.db"
+    },
+    "service":{
+        "port": 5000,
+        "debugMode": "True"
+    }
+}
